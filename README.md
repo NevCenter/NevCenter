@@ -1,28 +1,22 @@
-# NevCenter
+# Nevcenter
 
-**NevCenter** est une micro-entreprise spécialisée dans la création de sites web sur mesure. Que vous ayez besoin d’un site vitrine, d’un blog, d’une boutique en ligne ou d’une plateforme plus complexe, NevCenter vous accompagne de l’idée à la mise en ligne.
+**Nevcenter** est une jeune entreprise de développement web et mobile fondée par des étudiants passionnés, avec une ambition claire : créer des sites et applications modernes, performants et accessibles à tous.
 
-## 🚀 Ce que nous faisons
+### 🚀 Ce que nous faisons :
+- Développement de sites vitrine, e-commerce & CMS
+- Conception d’applications web interactives (React, Vue, etc.)
+- UI/UX design épuré & responsive
+- SEO, performance, hébergement, et support technique
+- Offres "clé en main" pour entrepreneurs, associations et startups
 
-- Création de sites vitrines modernes et responsives
-- Développement de boutiques e-commerce
-- Blogs, portfolios, pages personnelles
-- Sites dynamiques avec base de données
-- Intégration de CMS (WordPress, etc.)
-- Maintenance et évolution de sites existants
-
-## 💡 Notre approche
-
-Chez NevCenter, chaque projet est unique. Nous travaillons main dans la main avec nos clients pour créer des sites qui correspondent exactement à leurs besoins, avec un design soigné et une performance optimale.
-
-## 📫 Contact
-
-Vous avez un projet ou une idée de site ? Parlons-en !
-
-- Email : [nevcenter@nevcenter.com]
-- Site web : [https://nevcenter.com]
+### 💼 Nos valeurs :
+- Accessibilité des services (prix adaptés aux jeunes créateurs)
+- Code propre, structuré, et maintenable
+- Accompagnement humain, rapide et personnalisé
+- Transparence et clarté dans chaque projet
 
 ---
 
-> Ce dépôt peut contenir des exemples de projets réalisés par NevCenter, des démonstrations de composants ou des templates de base.
-
+📍 Basés en Belgique — disponibles partout 🌍  
+🔗 En savoir plus : [nevcenter.com](https://nevcenter.com) *(ou lien à mettre plus tard)*  
+📫 Contact : contact@nevcenter.com
