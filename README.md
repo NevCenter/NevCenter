@@ -18,5 +18,5 @@
 ---
 
 📍 Basés en Belgique — disponibles partout 🌍  
-🔗 En savoir plus : [nevcenter.com](https://nevcenter.com) *(ou lien à mettre plus tard)*  
+🔗 En savoir plus : [nevcenter.com](https://nevcenter.com)
 📫 Contact : contact@nevcenter.com
